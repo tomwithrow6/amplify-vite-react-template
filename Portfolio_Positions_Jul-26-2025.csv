@@ -1,0 +1,21 @@
+﻿Account Number,Account Name,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Percent Of Account,Cost Basis Total,Average Cost Basis,Type
+186450570,ROTH IRA,FDRXX**,HELD IN MONEY MARKET,,,,$237.09,,,,,0.09%,,,Cash
+186450570,ROTH IRA,VFIAX,VANGUARD 500 INDEX ADMIRAL,279.336,$589.89,+$2.36,$164777.51,+$659.23,+0.40%,+$64374.95,+64.11%,64.15%,$100402.56,$359.43,Cash
+186450570,ROTH IRA,FBALX,FIDELITY BALANCED,2926.172,$31.39,+$0.10,$91852.53,+$292.61,+0.31%,+$63618.74,+225.32%,35.76%,$28233.79,$9.65,Cash
+346812870,Rollover IRA,FDRXX**,HELD IN MONEY MARKET,,,,$37.77,,,,,0.00%,,,Cash
+346812870,Rollover IRA,VWETX,VANGUARD LONG TERM INVMT GRADE ADMIRAL,6634.072,$7.55,+$0.04,$50087.24,+$265.36,+0.53%,+$261.26,+0.52%,5.14%,$49825.98,$7.51,Cash
+346812870,Rollover IRA,VWEAX,VANGUARD HI YIELD CORPORATE ADMIRAL,10913.831,$5.52,$0.00,$60244.34,$0.00,0.00%,+$10149.86,+20.26%,6.18%,$50094.48,$4.59,Cash
+346812870,Rollover IRA,VTMGX,VANGUARD DEVELOPED MRKTS INDEX ADMIRAL,8742.015,$18.63,-$0.02,$162863.73,-$174.85,-0.11%,+$49042.47,+43.08%,16.70%,$113821.26,$13.02,Cash
+346812870,Rollover IRA,VFIAX,VANGUARD 500 INDEX ADMIRAL,287.83,$589.89,+$2.36,$169788.03,+$679.27,+0.40%,+$68277.36,+67.26%,17.41%,$101510.67,$352.68,Cash
+346812870,Rollover IRA,FTQGX,FIDELITY FOCUSED STOCK FUND,1572.923,$40.56,+$0.42,$63797.75,+$660.62,+1.04%,+$59982.03,+1571.97%,6.54%,$3815.72,$2.43,Cash
+346812870,Rollover IRA,FSPHX,FIDELITY SELECT HEALTH CARE,2761.348,$25.87,+$0.16,$71436.07,+$441.81,+0.62%,+$61436.07,+614.36%,7.32%,$10000.00,$3.62,Cash
+346812870,Rollover IRA,FMDE,FIDELITY ENHANCED MID CAP ETF,354.617,$35.22,+$0.14,$12489.61,+$49.64,+0.39%,+$7989.61,+177.54%,1.28%,$4500.00,$12.69,Cash
+346812870,Rollover IRA,FFTWX,FIDELITY FREEDOM 2025,2340.023,$14.67,+$0.03,$34328.13,+$70.20,+0.20%,+$18674.88,+119.30%,3.52%,$15653.25,$6.69,Cash
+346812870,Rollover IRA,FFTHX,FIDELITY FREEDOM 2035,6845.762,$17.10,+$0.03,$117062.53,+$205.37,+0.17%,+$23438.11,+25.03%,12.00%,$93624.42,$13.68,Cash
+346812870,Rollover IRA,FFFEX,FIDELITY FREEDOM 2030,12275.889,$19.00,+$0.03,$233241.89,+$368.27,+0.15%,+$37553.29,+19.19%,23.91%,$195688.60,$15.94,Cash
+
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. The spreadsheet is provided for informational purposes only, and is not intended to provide advice, nor should it be construed as an offer to sell, a solicitation of an offer to buy or a recommendation for any security by Fidelity or any third party. Data and information shown is based on information known to Fidelity as of the date it was exported and is subject to change. It should not be used in place of your account statements or trade confirmations and is not intended for tax reporting purposes. For more information on the data included in this spreadsheet, including any limitations thereof, go to Fidelity.com."
+
+"Brokerage services are provided by Fidelity Brokerage Services LLC (FBS), 900 Salem Street, Smithfield, RI 02917. Custody and other services provided by National Financial Services LLC (NFS). Both are Fidelity Investment companies and members SIPC, NYSE. Neither FBS nor NFS offer crypto as a direct investment nor provide trading or custody services for such assets."
+
+"Date downloaded Jul-26-2025 10:15 a.m ET"
