@@ -41,9 +41,15 @@ useEffect(() => {
     client.models.Todo.delete({ id })
   }
 
-  return (
+  function testA() {
+    console.log("*** BiteMe from TestA ***")
+  }
 
+  return (
     <main>
+      
+      <h1>TestButton 1</h1>
+      <button onClick={testA}>Sign In Button</button>
 
       <h1>Sign In... h1 label</h1>
       <button onClick={createTodo}>Sign In Button</button>
